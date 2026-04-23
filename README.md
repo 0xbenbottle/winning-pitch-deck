@@ -1,4 +1,4 @@
-# winning-pitch-deck
+# Create a Winning Pitch Deck
 
 A Claude skill that helps founders craft or review a 3-minute pitch deck and speaker script using the **DePitch framework** by [Sofian](https://x.com/depitchsofian) / [DePitch Academy](https://x.com/depitch_academy).
 
@@ -69,7 +69,7 @@ winning-pitch-deck/
 
 ## Credits
 
-The framework, examples, and delivery techniques come from Sofian's [DePitch Academy](https://x.com/depitch_academy) workshop *"Crafting a winning pitch for Colosseum Frontier"*, hosted by [Superteam Canada](https://superteam.ca/) in April 2026. Winning-deck examples referenced: Surf Cache, Nomu, Spend, Crypto Fantasy League, Loot Go.
+The framework, examples, and delivery techniques come from Sofian's [DePitch Academy](https://x.com/depitch_academy) workshop *"Crafting a winning pitch for Colosseum Frontier"*, hosted by [Superteam Canada](https://superteam.ca/) in April 2026. Winning-deck examples referenced: Surf Cache, Nomu, Spend, Crypto Fantasy League, Loot Go. Watch the [full workshop](https://x.com/i/broadcasts/1AxRnaLaNZgxl) 
 
 Packaged as a Claude skill by [BenBottle](https://github.com/0xbenbottle).
 
